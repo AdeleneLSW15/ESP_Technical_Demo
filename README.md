@@ -4,7 +4,7 @@ In Embedded Systems Project, technical demonstration criteria is assessed. Based
 
 - TD1: Assess whether your buggy is able to perform basic Motor Control.
 - TD2: Assess sensors for your project. Sensors does not have to be fitted to the buggy.
-- TD3: Assess autonomous white-line following control capability of your buggy - Steering. 
+- TD3: Assess autonomous white-line following control capability of your buggy - Steering. Wireless Bluetooth control to turn the buggy 180 degrees.
 - TD4: Assess autonomous white-line following buggy on mini race track. Make the buggy robust.
 
 For TD4, I have used the TD3 code files but with upgraded speed. Furthermore, also supplied additional TCRT5000 sensors for backup.
